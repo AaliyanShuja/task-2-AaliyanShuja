@@ -55,4 +55,3 @@ python main.py
 
 ---
 
-*Complete this project to unlock Project 3!*
