@@ -53,14 +53,6 @@ python main.py
 | **Feature vectors** | 4-dimensional real-valued features |
 | **Decision boundaries** | Interactive mode shows low-confidence warnings |
 
-## Extensions to Try
-
-- Normalise features (min-max scaling) and see if accuracy changes
-- Implement weighted k-NN (closer neighbours get more vote power)
-- Add a standalone dataset CSV loader instead of hardcoded data
-- Try a different distance metric (Manhattan, cosine)
-- Build a simple decision tree classifier and compare results
-
 ---
 
 *Complete this project to unlock Project 3!*
